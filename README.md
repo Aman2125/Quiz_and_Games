@@ -1,69 +1,56 @@
-# Welcome to your Lovable project
+# Quiz and Games Website 🎮  
 
-## Project info
+Welcome to the *Quiz and Games Website, an interactive platform designed for fun and learning! Made with **React* and *TypeScript*, this project offers a variety of quizzes 🧠 and exciting mini-games 🎲. With real-time score tracking 🏆, responsive design 📱, and a host of user-friendly features, it’s perfect for testing knowledge or just having fun!
 
-**URL**: https://lovable.dev/projects/f59e3ef2-e211-4208-b246-916186d05edc
+---
 
-## How can I edit this code?
+## 🌟 Features  
 
-There are several ways of editing your application.
+- 🎯 *Mini-Games*: A collection of entertaining games to keep you engaged.  
+- 🏆 *Scoreboard*: Real-time tracking of your scores for quizzes and games.  
+- ⏱ *Quiz Timer*: Challenge yourself with timed quizzes to test your speed and accuracy.  
+- 🔒 *Login and Signup*: Secure your progress and access personalized features.  
+- 🌗 *Dark and Light Mode*: Choose between dark and light themes for a comfortable viewing experience.  
+- 📅 *Daily Challenge Section*: Complete new challenges daily to stay motivated and earn rewards.  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f59e3ef2-e211-4208-b246-916186d05edc) and start prompting.
+## 🧠 Quiz Types  
 
-Changes made via Lovable will be committed automatically to this repo.
+### 1. *General Knowledge Quiz*  
+Test your knowledge across a variety of topics, from history to pop culture.  
 
-**Use your preferred IDE**
+### 2. *Math Quiz*  
+Solve challenging mathematical problems to sharpen your skills.  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 3. *History Quiz*  
+Explore fascinating events, dates, and personalities that shaped the world.  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 4. *Technology Quiz*  
+Answer questions about tech innovations, gadgets, and groundbreaking discoveries.  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Getting Started  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Prerequisites  
+Make sure you have the following installed:  
+- *Node.js* (latest stable version)  
+- *npm* or *yarn* (package manager)  
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Installation  
+1. Clone the repository:  
+   bash  
+   git clone https://github.com/Aman2125/Quiz_and_Games.git  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+2. Navigate to the project directory:  
+   bash 
+   cd Quiz_and_Games  
 
-**Edit a file directly in GitHub**
+3. Install dependencies:  
+   bash  
+   npm install
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f59e3ef2-e211-4208-b246-916186d05edc) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+4. Start the development server:
+   bash 
+   npm run dev
