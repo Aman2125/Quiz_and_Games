@@ -43,7 +43,7 @@ const App = () => {
       <TooltipProvider>
         <Toaster />
         <SonnerToaster />
-        <BrowserRouter>
+        <BrowserRouter basename="/Quiz_and_Games/"> {/* Add basename here */}
           <Suspense fallback={<LoadingFallback />}>
             <Routes>
               <Route path="/" element={<Index />} />
