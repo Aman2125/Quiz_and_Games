@@ -18,6 +18,8 @@ export function ThemeToggle() {
       title: `${theme.charAt(0).toUpperCase() + theme.slice(1)} mode activated`,
       duration: 1500
     });
+    
+    console.log('Theme:', theme); // Log the current theme to check it
   }, [theme, toast]);
 
   const toggleTheme = () => {
@@ -45,7 +47,7 @@ export function ThemeToggle() {
             ${theme === 'light' ? 'opacity-100 transform-none' : 'opacity-0 rotate-90'}`} 
           />
           <Moon className={`absolute inset-0 transition-all duration-300
-            ${theme === 'dark' ? 'opacity-100 transform-none' : 'opacity-0 -rotate-90'}`} 
+            ${theme === 'dark' ? 'opacity-100 transform-none' : 'opacity-0 rotate-0'}`} 
           />
         </motion.div>
         <span className="sr-only">Toggle theme</span>
