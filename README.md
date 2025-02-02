@@ -30,6 +30,18 @@ Explore fascinating events, dates, and personalities that shaped the world.
 Answer questions about tech innovations, gadgets, and groundbreaking discoveries.  
 
 ---
+## 📸 Screenshots  
+
+Here are some screenshots to showcase the app’s features:
+
+![Screenshot 1](./path/to/screenshot1.png)  
+*Main Dashboard and Navigation*
+
+![Screenshot 2](./path/to/screenshot2.png)  
+*Quiz Gameplay in Action*
+
+![Screenshot 3](./path/to/screenshot3.png)  
+*Scoreboard and Results*
 
 ## 🚀 Getting Started  
 
