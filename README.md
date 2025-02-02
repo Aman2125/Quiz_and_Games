@@ -34,14 +34,14 @@ Answer questions about tech innovations, gadgets, and groundbreaking discoveries
 
 Here are some screenshots to showcase the app’s features:
 
-![Screenshot 1](./path/to/screenshot1.png)  
+![Screenshot 1](./src/Screenshot%202025-02-02%20135048.png)  
 *Main Dashboard and Navigation*
 
-![Screenshot 2](./path/to/screenshot2.png)  
-*Quiz Gameplay in Action*
+![Screenshot 2](./src/Screenshot%202025-02-02%20135130.png)  
+*Game section *
 
-![Screenshot 3](./path/to/screenshot3.png)  
-*Scoreboard and Results*
+![Screenshot 3](./src/Screenshot%202025-02-02%20135218.png)  
+*Light Mode and Quiz*
 
 ## 🚀 Getting Started  
 
